@@ -12,7 +12,7 @@
     "compatibility": {
             "minimum": "10",
             "maximum": "11",
-            "verified": "10.290"
+            "verified": "11.308"
     },
     "styles": [
         "css/styles.css"
