@@ -22,7 +22,7 @@
             {
                 "id": "dnd5e",
                 "type": "system",
-                "manifest": "https://raw.githubusercontent.com/Kaaresandfaer/5e-complete-11/main/module.json",
+                "manifest": "https://raw.githubusercontent.com/mikeyloboto/5e-complete-11/main/module.json",
                 "compatibility": {
                     "minimum": "2.0.0",
                     "verified": "2.0.3"
@@ -160,8 +160,8 @@
             "package": "5e-complete"
         }
     ],
-    "url": "https://github.com/Kaaresandfaer/5e-complete-11",
-    "manifest": "https://raw.githubusercontent.com/Kaaresandfaer/5e-complete-11/main/module.json",
+    "url": "https://github.com/mikeyloboto/5e-complete-11",
+    "manifest": "https://raw.githubusercontent.com/mikeyloboto/5e-complete-11/main/module.json",
     "download": "https://github.com/Archer39/5e-complete/archive/refs/heads/main.zip",
     "description": "This module adds classes, subclasses, and other items missing from the D&D 5e SRD"
 }
